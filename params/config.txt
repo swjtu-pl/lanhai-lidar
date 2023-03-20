@@ -1,0 +1,17 @@
+lidar_ip:192.168.2.11
+lidar_port:502
+local_port:6668
+raw_bytes:3
+unit_is_mm:1
+with_confidence:1
+with_checksum:1
+with_smooth:1
+with_deshadow:1
+resample:400
+rpm:600
+output_scan:1
+output_360:1
+from_zero:0
+output_file:home/penglei/LidarData/udp_data.txt
+is_group_listener:1
+group_ip:224.0.0.99
